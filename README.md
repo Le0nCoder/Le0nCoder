@@ -1,5 +1,9 @@
 <h2 align="left">Hi 👋! My name is Leon and I'm a student of cibersecurity, from Mexico</h2>
 
+<p align="center">
+  <img src="./img/Free%20Banner%20for%20Pinterest%20_%20Download%20Now.jpg" width="100%">
+</p>
+
 ###
 
 <!-- STATS  -->
